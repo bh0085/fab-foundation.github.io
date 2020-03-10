@@ -1,6 +1,6 @@
 body {
 
-    background-image: url(mascot_color.png);
+    background-image: url(background.png);
 background-size: cover;
 
 background-repeat: no-repeat;
@@ -19,7 +19,6 @@ margin: 0px;
         top:0px;
         bottom:0px;
         right:0px;
-        //background-color:rgba(0, 0, 0, .4);
     }
     #title{
         font-weight: bold;
