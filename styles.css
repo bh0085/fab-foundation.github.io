@@ -1,8 +1,8 @@
 body {
 
-    background-image: url(opening_soon@0.33x.jpg);
+    background-image: url(hps_0000s_0001_hps_color.png);
 background-size: cover;
-background-color: black;
+
 background-repeat: no-repeat;
 background-position: center;
 width: 100vw;
@@ -19,7 +19,7 @@ margin: 0px;
         top:0px;
         bottom:0px;
         right:0px;
-        background-color:rgba(0, 0, 0, .4);
+        //background-color:rgba(0, 0, 0, .4);
     }
     #title{
         font-weight: bold;
@@ -27,7 +27,7 @@ text-transform: uppercase;
 opacity: .9;
         margin-left: auto;
 margin-right: auto;
-color: white;
+color: black;
 display: block;
 text-align: center;
 margin-top:50vh;
