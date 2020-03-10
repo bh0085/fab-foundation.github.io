@@ -1,44 +1,41 @@
 body {
-
     background-image: url(background.png);
-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100vw;
+    position: relative;
+    padding: 0px;
+    height: 100vh;
+    margin: 0px;
+}
 
-background-repeat: no-repeat;
-background-position: center;
-width: 100vw;
-position: relative;
-padding: 0px;
-height: 100vh;
-margin: 0px;
+#countdown{
+    position:absolute;
+    left:0px;
+    top:0px;
+    bottom:0px;
+    right:0px;
+}
 
-
-    }
-    #countdown{
-        position:absolute;
-        left:0px;
-        top:0px;
-        bottom:0px;
-        right:0px;
-    }
-    #title{
-        font-weight: bold;
-text-transform: uppercase;
-opacity: .9;
-        margin-left: auto;
-margin-right: auto;
-color: black;
-display: block;
-text-align: center;
-margin-top:50vh;
-transform: translate(0%, -50%);
-line-height:8em;
+#title{
+    font-weight: bold;
+    text-transform: uppercase;
+    opacity: .9;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    display: block;
+    text-align: center;
+    margin-top:50vh;
+    transform: translate(0%, -50%);
+    line-height:8em;
 }
 #l1{
-font-size:11em;
+    font-size:11em;
 }
 #l2{
-font-size:5em;
+    font-size:5em;
 }
 
 
-    }
